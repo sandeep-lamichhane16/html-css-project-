@@ -1,1 +1,1 @@
-# These file include the html and css projcet 
+# These file include the html and css project
